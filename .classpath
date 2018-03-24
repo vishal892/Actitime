@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ActiTime"/>
+	<classpathentry kind="src" path="GmailApp"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/Apache poi-bin-3.13-Jar Files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="ResourcesForStoreJarOrExeFiles/selenium-java 2.47.1 version jar Files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

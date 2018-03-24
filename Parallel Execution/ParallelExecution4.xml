@@ -1,0 +1,16 @@
+
+<suite name="Suite" parallel="tests" thread.count="2">
+
+  <test name="Test1">
+    <classes>
+      <class name="reportTest.ReportTest2"/>      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test2">
+    <classes>
+      <class name="com.actitime.ReportTest1.ReportTest1Complete"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
